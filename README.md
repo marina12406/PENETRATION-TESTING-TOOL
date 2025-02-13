@@ -21,4 +21,7 @@ Penetration testing tools are used by cybersecurity professionals to identify an
 5. **Post-Exploitation Tools**: These tools help testers gather data and assess the potential damage that could be done if a hacker gained access to systems.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/51d16089-fe9b-4c79-b036-e6679e5aa33b)
+
+![Image](https://github.com/user-attachments/assets/d27e0eb8-889f-4de3-bf0b-bc532ba8f4dd)
 
